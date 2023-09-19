@@ -44,8 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<<<<<<< HEAD
 Feito com ♥
-=======
-Feito com ♥
->>>>>>> bb51a5d094bb9411c2f993b53166b728051424f2
