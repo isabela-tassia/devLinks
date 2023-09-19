@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-<<<<<<< HEAD
+
   <img alt="projeto DevLinks" src="./assets/preview.png" width="100%">
 </p>
 
